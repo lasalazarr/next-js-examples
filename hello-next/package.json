@@ -1,0 +1,25 @@
+{
+  "name": "next-js-examples",
+  "version": "1.0.0",
+  "description": "Examples based on Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasalazarr/next-js-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasalazarr/next-js-examples/issues"
+  },
+  "homepage": "https://github.com/lasalazarr/next-js-examples#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  }
+}
